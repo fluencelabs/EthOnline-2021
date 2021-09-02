@@ -16,7 +16,7 @@ Examples in this category include
 
 * Use Fluence to power a decentralized NFT creation and storage solution using, for examples, NFT.storage. We are especially excited about using Fluence compute to dynamically update the metadata of mutable NFTs.
 * Use Fluence to create a multi source DEX price oracle. We see Fluence compute at the "decenter" of querying and processing of streams to facilitate the optimal computation of buy/sell orders and routing to DExs.
-* Use Fluence to capture, process and index events across multiple EVMs, e.g., Ethereum L1 and L2, Avalanche, Moonriver, etc., for a (common) contract and store the results on Ceramic or Textile. Not unlike optimal order processing and routing, we see a need for a decentralized compute solution to make real-time transaction routing decisions for a contract available, or to me made available, across EVM providers.
+* Use Fluence to capture, process and index events across multiple EVMs, e.g., Ethereum L1 and L2, for a (common) contract and store the results on Ceramic or Textile. Not unlike optimal order processing and routing, we see a need for a decentralized compute solution to make real-time transaction routing decisions for a contract available, or to be made available, across multiple EVM implementations.
 
 ### USD 2,500 Best new tooling or pattern for other developers to use Fluence
 
