@@ -43,10 +43,11 @@ In this category, considerations are given to the use of Fluence with any one (o
 
 ## Resources
 
+* [How to apply, start hacking here](https://ethglobal.notion.site/ETHOnline-Info-Center-a919c10f61284d89992bfb8837c60a4d) 
 * [Fluence documentation](https://doc.fluence.dev/docs/)
 * [Aqua book](https://doc.fluence.dev/aqua-book/)
 * [Fluence Devcontainer](https://github.com/fluencelabs/devcontainer)
-* [Fluence IPFS Apapter](https://github.com/fluencelabs/aqua-ipfs)
+* [Fluence IPFS Adapter](https://github.com/fluencelabs/aqua-ipfs)
 * [Discord](https://fluence.chat)
 * [Fluence Youtube channel](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)
 * [Book A Meeting With The Team](https://calendly.com/fluencehack/)
