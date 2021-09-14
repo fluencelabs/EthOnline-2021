@@ -10,6 +10,16 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 In addition to the general price pool, Fluence provides named prizes in the following categories:
 
+### Beginner Bounty -- USD 150 for the first 10 people:
+
+Extend the Fluence Quickstart #3 https://github.com/fluencelabs/examples/tree/main/quickstart/3-browser-to-service with a word counting service.
+
+The service should implement word counting functionality: for a given string, return the number of words in that string. The services could be implemented as a:
+- Rust module compiled to WebAssembly and deployed to at least one Fluence Node. An example of a service can be found here https://github.com/fluencelabs/examples/tree/main/quickstart/2-hosted-services.
+- JavaSript/TypeScript module integrated with with Fluence JS SDK. For example, see[Services in JS SDK](https://doc.fluence.dev/docs/js-sdk/3_in_depth#service-definitions) and[example of a simple calculator service in JS](https://doc.fluence.dev/docs/js-sdk/5_run_in_node#calc-app-example).
+
+Once the service is implemented and works, you need to provide an opportunity to provide an input string, i.e., text, call the counting service with Aqua and return the word count, e.g., display the returned word count on a webpage (word count: 8 words).
+
 ### USD 2,500 Best use of Fluence compute for your dApp
 
 Examples in this category include
