@@ -37,7 +37,7 @@ Examples in the category include
 * Port or implement a signature signing and verification service as Wasm IT modules for Ethereum, e.g., eth_sign and sign typed data, and compatible EVM ecosystems.
 * Implement and deploy Wasm IT modules to create, manage or verify Decentralized Identity (DID) or Verifiable Credentials (VC) documents and associated linked data. An implementation using BBS+ would score a lot of points
 
-### USD 1,000 Best use of Fluence with another event sponsor
+### USD 1,500 Best use of Fluence with another event sponsor
 
 In this category, considerations are given to the use of Fluence with any one (or more) of the event co-sponsors.
 
